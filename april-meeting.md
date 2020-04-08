@@ -14,6 +14,9 @@ This is an open meeting in which anyone in The Guild's community may attend.
 - **Video Conference Link**: TBD
 - **Live Notes**: https://docs.google.com/document/d/1aXcuUxvXTRQy2WNnBQWg-jdqKS5B447KF2hvc_76zhM/edit
 - **Signup for our community newsletter**: https://upscri.be/19qjhi
+- **Join The Guild's Discord channel**: https://discordapp.com/invite/xud7bH9
+- **A list of our repositories**: https://github.com/the-guild-org/Stack
+- **The Guild's website**: http://the-guild.dev
 
 
 ## Attendees
