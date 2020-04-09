@@ -36,6 +36,7 @@ This is an open meeting in which anyone in The Guild's community may attend.
 | Dotan Simha              | The Guild                | Givatayim, IL
 | Kamil Kisiela            | The Guild                | Warsaw, PL
 | Arda Tanrikulu           | The Guild                | New York, US
+| Nishchit Dhanani         | Firecamp                 | Gujarat, India
 | *ADD YOUR NAME ABOVE TO ATTEND*
 
 
