@@ -8,7 +8,7 @@ This is an open meeting in which anyone in The Guild's community may attend.
 
 *To attend this meeting or propose agenda, edit this file.*
 
-- **Date & Time**: [April 23rd 2019 16:00 - 17:30 UTC](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=4&day=23&hour=16&min=0&sec=0&p1=224&p2=179&p3=136&p4=37&p5=239&p6=101&p7=152), subscribe to the [google calendar](https://calendar.google.com/calendar?cid=NHQ4M21ra2hkYWQ4MG00ZTRkOTI4aDIyYzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [ical file](https://calendar.google.com/calendar/ical/4t83mkkhdad80m4e4d928h22c8%40group.calendar.google.com/public/basic.ics).
+- **Date & Time**: [April 23rd 2020 16:00 - 17:30 UTC](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2020&month=4&day=23&hour=16&min=0&sec=0&p1=224&p2=179&p3=136&p4=37&p5=239&p6=101&p7=152), subscribe to the [google calendar](https://calendar.google.com/calendar?cid=NHQ4M21ra2hkYWQ4MG00ZTRkOTI4aDIyYzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) or [ical file](https://calendar.google.com/calendar/ical/4t83mkkhdad80m4e4d928h22c8%40group.calendar.google.com/public/basic.ics).
 
   <small>*NOTE:* Meeting date and time may change. Please check this agenda the week of the meeting to confirm.</small>
 - **Video Conference Link**: TBD
