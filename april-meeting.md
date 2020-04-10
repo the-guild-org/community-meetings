@@ -37,6 +37,7 @@ This is an open meeting in which anyone in The Guild's community may attend.
 | Kamil Kisiela            | The Guild                | Warsaw, PL
 | Arda Tanrikulu           | The Guild                | New York, US
 | Nishchit Dhanani         | Firecamp                 | Gujarat, India
+| Jean-Yves Couet          |                          | Vienna, Austria
 | *ADD YOUR NAME ABOVE TO ATTEND*
 
 
