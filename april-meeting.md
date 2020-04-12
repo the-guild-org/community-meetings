@@ -38,6 +38,7 @@ This is an open meeting in which anyone in The Guild's community may attend.
 | Arda Tanrikulu           | The Guild                | New York, US
 | Nishchit Dhanani         | Firecamp                 | Gujarat, India
 | Jean-Yves Couet          |                          | Vienna, Austria
+| Vilva Athiban            | Omio                     | Berlin, Germany
 | *ADD YOUR NAME ABOVE TO ATTEND*
 
 
