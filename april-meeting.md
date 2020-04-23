@@ -40,6 +40,7 @@ This is an open meeting in which anyone in The Guild's community may attend.
 | Jean-Yves Couet          |                          | Vienna, Austria
 | Vilva Athiban            | Omio                     | Berlin, Germany
 | David Sint               |                          | London, GB
+| Pavel Chertorogov        | graphql-compose          | Almaty, KZ
 | *ADD YOUR NAME ABOVE TO ATTEND*
 
 
